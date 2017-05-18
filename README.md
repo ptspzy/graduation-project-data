@@ -42,3 +42,7 @@ https://github.com/vuejs-templates
 [vuejs实现数据驱动视图原理](http://www.cnblogs.com/caizhenbo/p/6418284.html)
 
 # Webpack
+
+# 第三方登录
+- [QQ登录](http://wiki.connect.qq.com/oauth2-0%E7%AE%80%E4%BB%8B)
+- [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
