@@ -35,8 +35,6 @@ http://cn.vuejs.org/v2/guide/routing.html
 
 http://cn.vuejs.org/v2/guide/reactivity.html
 
-
-
 https://github.com/vuejs-templates
 
 [vuejs实现数据驱动视图原理](http://www.cnblogs.com/caizhenbo/p/6418284.html)
